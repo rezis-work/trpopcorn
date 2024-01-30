@@ -1,3 +1,5 @@
+live link - https://trpopcorn.netlify.app/
+
 TRPopcorn - Movie Tracker
 Overview
 TRPopcorn is a simple React-based movie tracking app that allows users to search for movies, view details about them, and track movies they have watched. Users can add movies to their watched list, rate them, and see a summary of their watched movies. The app uses the OMDB API to fetch movie data.
